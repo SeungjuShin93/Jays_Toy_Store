@@ -18,6 +18,7 @@ import ScrollToTop from './utils/scrollToTop';
 import { ProductStore } from './stores/Product.store';
 import { useEffect } from 'react';
 import { UserStore } from './stores/User.store';
+import axios from 'axios';
 
 function App() {
   const { isFixed } = FixedStore();
