@@ -51,7 +51,7 @@
       "last 1 firefox version",
       "last 1 safari version"
     ],
-    "homepage": "https://SeungjuShin93.github.io/Jays_Toy_Store"
+    "homepage": ""
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
