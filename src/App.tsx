@@ -26,6 +26,24 @@ function App() {
   const { setUser } = UserStore();
   const location = useLocation();
 
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const response = await fetch(
+          'https://jays-toy-store.onrender.com/carts'
+        );
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const data = await response.json();
+        console.log(data);
+      } catch (error) {
+        console.error('Fetch error:', error);
+      }
+    };
+    fetchData();
+  }, []);
+
   // 사용자 정보를 전역에 저장
   useEffect(() => {
     if (location.state && location.state.user) {
