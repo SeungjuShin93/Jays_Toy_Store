@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Jays_Toy_Store/static/css/main.e50540c7.css",
-    "main.js": "/Jays_Toy_Store/static/js/main.d226c963.js",
-    "static/js/453.68693753.chunk.js": "/Jays_Toy_Store/static/js/453.68693753.chunk.js",
-    "static/media/desc03.jpeg": "/Jays_Toy_Store/static/media/desc03.fc7f58a7b39e9a8fea9f.jpeg",
-    "static/media/desc04.jpeg": "/Jays_Toy_Store/static/media/desc04.8ace359599d4e4670b71.jpeg",
-    "static/media/desc02.jpeg": "/Jays_Toy_Store/static/media/desc02.793013a32080e1f92793.jpeg",
-    "static/media/desc01.jpeg": "/Jays_Toy_Store/static/media/desc01.49cd9a6f77999fe81a55.jpeg",
-    "static/media/GmarketSansMedium.otf": "/Jays_Toy_Store/static/media/GmarketSansMedium.3b975ddd58dcbe363ee5.otf",
-    "static/media/logo.png": "/Jays_Toy_Store/static/media/logo.89283a84f5cefb057dd2.png",
-    "index.html": "/Jays_Toy_Store/index.html",
-    "main.e50540c7.css.map": "/Jays_Toy_Store/static/css/main.e50540c7.css.map",
-    "main.d226c963.js.map": "/Jays_Toy_Store/static/js/main.d226c963.js.map",
-    "453.68693753.chunk.js.map": "/Jays_Toy_Store/static/js/453.68693753.chunk.js.map"
+    "main.css": "/static/css/main.a5679b11.css",
+    "main.js": "/static/js/main.d7c2b25f.js",
+    "static/js/453.68693753.chunk.js": "/static/js/453.68693753.chunk.js",
+    "static/media/desc03.jpeg": "/static/media/desc03.fc7f58a7b39e9a8fea9f.jpeg",
+    "static/media/desc04.jpeg": "/static/media/desc04.8ace359599d4e4670b71.jpeg",
+    "static/media/desc02.jpeg": "/static/media/desc02.793013a32080e1f92793.jpeg",
+    "static/media/desc01.jpeg": "/static/media/desc01.49cd9a6f77999fe81a55.jpeg",
+    "static/media/GmarketSansMedium.otf": "/static/media/GmarketSansMedium.3b975ddd58dcbe363ee5.otf",
+    "static/media/logo.png": "/static/media/logo.89283a84f5cefb057dd2.png",
+    "index.html": "/index.html",
+    "main.a5679b11.css.map": "/static/css/main.a5679b11.css.map",
+    "main.d7c2b25f.js.map": "/static/js/main.d7c2b25f.js.map",
+    "453.68693753.chunk.js.map": "/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e50540c7.css",
-    "static/js/main.d226c963.js"
+    "static/css/main.a5679b11.css",
+    "static/js/main.d7c2b25f.js"
   ]
 }
